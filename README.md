@@ -1,4 +1,4 @@
 # Praktikum_2
 Hasil Percobaan
 
-![Screenshot (4)](https://user-images.githubusercontent.com/81338813/162547726-c6e7f021-1c4d-4e68-a467-49c67ea206df.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/81338813/162567820-185681d7-8c5c-44f5-9c7d-ee1329162121.png)
